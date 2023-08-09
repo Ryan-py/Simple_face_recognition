@@ -1,2 +1,2 @@
 # Simple_face_recognition
-![Sample Output]("")
+![Sample Output]("output_image.jpg")
